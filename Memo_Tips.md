@@ -44,6 +44,12 @@ https://dev.classmethod.jp/articles/cloudwatch-events-to-stepfunctions/
 ### Call Amazon SNS with Step Funct
 https://docs.aws.amazon.com/step-functions/latest/dg/connect-sns.html
 
+### Input Output filtering
+https://docs.aws.amazon.com/step-functions/latest/dg/concepts-input-output-filtering.html
+
+### Amazon States Language (specific sample)
+https://aws.amazon.com/blogs/aws/aws-step-functions-adds-updates-to-choice-state-global-access-to-context-object-dynamic-timeouts-result-selection-and-intrinsic-functions-to-amazon-states-languages/
+
 ## VPC
 
 ### What is VPC peering?
